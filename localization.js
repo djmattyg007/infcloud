@@ -8649,11 +8649,11 @@ localizationCardDAV['en_US']=	/* Jan Mate <jan.mate@inf-it.com> */
 	/* index.html */
 	altAddContact: 'Add Contact',
 	altPhoto: 'Photo',
-	txtAddressbook: 'Addressbook',
-	txtAddressbooks: 'Addressbooks',
+	txtAddressbook: 'Address Book',
+	txtAddressbooks: 'Address Books',
 	txtVcardGroupsTextSingle: '%coll% [+ 1 group]',
 	txtVcardGroupsTextMulti: '%coll% [+ %n% groups]',
-	txtEnabledAddressbooks: 'Enabled Addressbooks',
+	txtEnabledAddressbooks: 'Enabled Address Books',
 	txtCompanies: 'Companies',
 	txtContact: 'Contact',
 	pholderNickname: 'NickName',
@@ -8796,8 +8796,8 @@ localizationCardDAV['en_US']=	/* Jan Mate <jan.mate@inf-it.com> */
 	contactRfcNotCompliant: 'Error: this contact (vCard) is not compliant with RFC 2426!',
 
 	/* interface.js */
-	loadingAddressbooks: 'Loading addressbooks (%act% of %total%) ...',
-	unloadingAddressbooks: 'Unloading addressbooks ...',
+	loadingAddressbooks: 'Loading address books (%act% of %total%) ...',
+	unloadingAddressbooks: 'Unloading address books ...',
 
 	/* webdav_protocol.js */
 	succContactSaved: 'Contact successfully saved!',

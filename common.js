@@ -2129,7 +2129,6 @@ dataTypes['profile_type']={
 	'facebook': RegExp('^facebook$'),
 	'flickr': RegExp('^flickr$'),
 	'linkedin': RegExp('^linkedin$'),
-	'myspace': RegExp('^myspace$'),
 	'sinaweibo': RegExp('^sinaweibo$')
 };
 

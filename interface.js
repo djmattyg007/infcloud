@@ -5451,7 +5451,6 @@ function localizeCardDAV()
 	abContactRef.find('[data-type="\\%profile"]').find('[data-type="facebook"]').text(localization[globalInterfaceLanguage].txtProfileFacebook);
 	abContactRef.find('[data-type="\\%profile"]').find('[data-type="flickr"]').text(localization[globalInterfaceLanguage].txtProfileFlickr);
 	abContactRef.find('[data-type="\\%profile"]').find('[data-type="linkedin"]').text(localization[globalInterfaceLanguage].txtProfileLinkedin);
-	abContactRef.find('[data-type="\\%profile"]').find('[data-type="myspace"]').text(localization[globalInterfaceLanguage].txtProfileMyspace);
 	abContactRef.find('[data-type="\\%profile"]').find('[data-type="sinaweibo"]').text(localization[globalInterfaceLanguage].txtProfileSinaweibo);
 
 	abContactRef.find('[data-type="address_txt"]').text(localization[globalInterfaceLanguage].txtAddress);

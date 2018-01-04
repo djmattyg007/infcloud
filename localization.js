@@ -8241,7 +8241,6 @@ localizationCardDAV['cs_CZ']=	/* Jan Mate <jan.mate@inf-it.com> */
 	txtProfileFacebook: 'facebook',
 	txtProfileFlickr: 'flickr',
 	txtProfileLinkedin: 'linkedin',
-	txtProfileMyspace: 'myspace',
 	txtProfileSinaweibo: 'sina weibo',
 	pholderProfileVal: 'Uživatel',
 
@@ -8409,7 +8408,6 @@ localizationCardDAV['da_DK']=	/* thanks Niels Bo Andersen and Michael Rasmussen 
 	txtProfileFacebook: 'facebook',
 	txtProfileFlickr: 'flickr',
 	txtProfileLinkedin: 'linkedin',
-	txtProfileMyspace: 'myspace',
 	txtProfileSinaweibo: 'sina weibo',
 	pholderProfileVal: 'Brugernavn',
 
@@ -8577,7 +8575,6 @@ localizationCardDAV['de_DE']=	/* thanks Marten Gajda and Thomas Scheel */
 	txtProfileFacebook: 'facebook',
 	txtProfileFlickr: 'flickr',
 	txtProfileLinkedin: 'linkedin',
-	txtProfileMyspace: 'myspace',
 	txtProfileSinaweibo: 'sina weibo',
 	pholderProfileVal: 'Benutzername',
 
@@ -8746,7 +8743,6 @@ localizationCardDAV['en_US']=	/* Jan Mate <jan.mate@inf-it.com> */
 	txtProfileFacebook: 'facebook',
 	txtProfileFlickr: 'flickr',
 	txtProfileLinkedin: 'linkedin',
-	txtProfileMyspace: 'myspace',
 	txtProfileSinaweibo: 'sina weibo',
 	pholderProfileVal: 'UserName',
 
@@ -8915,7 +8911,6 @@ localizationCardDAV['es_ES']=	/* Damian Vila <damianvila@gmail.com> */
 	txtProfileFacebook: 'facebook',
 	txtProfileFlickr: 'flickr',
 	txtProfileLinkedin: 'linkedin',
-	txtProfileMyspace: 'myspace',
 	txtProfileSinaweibo: 'sina weibo',
 	pholderProfileVal: 'Nombre de usuario',
 
@@ -9084,7 +9079,6 @@ localizationCardDAV['fr_FR']=	/* thanks John Fischer and Jean-Christophe Bach */
 	txtProfileFacebook: 'facebook',
 	txtProfileFlickr: 'flickr',
 	txtProfileLinkedin: 'linkedin',
-	txtProfileMyspace: 'myspace',
 	txtProfileSinaweibo: 'sina weibo',
 	pholderProfileVal: 'Nom d\'utilisateur',
 
@@ -9253,7 +9247,6 @@ localizationCardDAV['hu_HU']=	/* Jan Mate <jan.mate@inf-it.com> */
 	txtProfileFacebook: 'facebook',
 	txtProfileFlickr: 'flickr',
 	txtProfileLinkedin: 'linkedin',
-	txtProfileMyspace: 'myspace',
 	txtProfileSinaweibo: 'sina weibo',
 	pholderProfileVal: 'Felhasználói név',
 
@@ -9422,7 +9415,6 @@ localizationCardDAV['it_IT']=	/* thanks Luca Ferrario */
 	txtProfileFacebook: 'facebook',
 	txtProfileFlickr: 'flickr',
 	txtProfileLinkedin: 'linkedin',
-	txtProfileMyspace: 'myspace',
 	txtProfileSinaweibo: 'sina weibo',
 	pholderProfileVal: 'Nome utente',
 
@@ -9591,7 +9583,6 @@ localizationCardDAV['ja_JP']=	/* Muimu Nakayama */
 	txtProfileFacebook: 'facebook',
 	txtProfileFlickr: 'flickr',
 	txtProfileLinkedin: 'linkedin',
-	txtProfileMyspace: 'myspace',
 	txtProfileSinaweibo: 'sina weibo',
 	pholderProfileVal: 'ユーザ名',
 
@@ -9760,7 +9751,6 @@ localizationCardDAV['nl_NL']=	/* thanks Johan Vromans */
 	txtProfileFacebook: 'facebook',
 	txtProfileFlickr: 'flickr',
 	txtProfileLinkedin: 'linkedin',
-	txtProfileMyspace: 'myspace',
 	txtProfileSinaweibo: 'sina weibo',
 	pholderProfileVal: 'UserName',
 
@@ -9929,7 +9919,6 @@ localizationCardDAV['sk_SK']=	/* Jan Mate <jan.mate@inf-it.com> */
 	txtProfileFacebook: 'facebook',
 	txtProfileFlickr: 'flickr',
 	txtProfileLinkedin: 'linkedin',
-	txtProfileMyspace: 'myspace',
 	txtProfileSinaweibo: 'sina weibo',
 	pholderProfileVal: 'Meno',
 
@@ -10097,7 +10086,6 @@ localizationCardDAV['tr_TR']=	/* thanks Selcuk Pultar */
 	txtProfileFacebook: 'facebook',
 	txtProfileFlickr: 'flickr',
 	txtProfileLinkedin: 'linkedin',
-	txtProfileMyspace: 'myspace',
 	txtProfileSinaweibo: 'sina weibo',
 	pholderProfileVal: 'KulllanıcıAdı',
 
@@ -10265,7 +10253,6 @@ localizationCardDAV['ru_RU']=	/* thanks Александр Симонов */
 	txtProfileFacebook: 'facebook',
 	txtProfileFlickr: 'flickr',
 	txtProfileLinkedin: 'linkedin',
-	txtProfileMyspace: 'myspace',
 	txtProfileSinaweibo: 'sina weibo',
 	pholderProfileVal: 'Имя в социальной сети',
 
@@ -10434,7 +10421,6 @@ localizationCardDAV['uk_UA']=	/* Serge Yakimchuck <yakim@yakim.org.ua */
 	txtProfileFacebook: 'facebook',
 	txtProfileFlickr: 'flickr',
 	txtProfileLinkedin: 'linkedin',
-	txtProfileMyspace: 'myspace',
 	txtProfileSinaweibo: 'sina weibo',
 	pholderProfileVal: 'Ім\'я',
 
@@ -10603,7 +10589,6 @@ localizationCardDAV['zh_CN']=	/* thanks Fandy */
 	txtProfileFacebook: 'facebook',
 	txtProfileFlickr: 'flickr',
 	txtProfileLinkedin: 'linkedin',
-	txtProfileMyspace: 'myspace',
 	txtProfileSinaweibo: '新浪微博',
 	pholderProfileVal: '用户名',
 

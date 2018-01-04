@@ -984,7 +984,6 @@ var globalUriHandlerProfile={
 	'facebook': 'http://www.facebook.com/%u',
 	'flickr': 'http://www.flickr.com/photos/%u',
 	'linkedin': 'http://www.linkedin.com/in/%u',
-	'myspace': 'http://www.myspace.com/%u',
 	'sinaweibo': 'http://weibo.com/n/%u'
 };
 
@@ -1153,7 +1152,7 @@ var globalGroupContactsByCompanies=false;
 //       {RelatedChild}, {RelatedFriend}, {RelatedSpouse}, {RelatedPartner},
 //       {RelatedOther}
 //     - {Profile}, {ProfileTwitter}, {ProfileFacebook}, {ProfileFlickr},
-//       {ProfileLinkedin}, {ProfileMyspace}, {ProfileSinaweibo}
+//       {ProfileLinkedin}, {ProfileSinaweibo}
 //     - {IM}, {IMWork}, {IMHome}, {IMMobileme}, {IMOther}, {IMAim}, {IMIcq},
 //       {IMIrc}, {IMJabber}, {IMMsn}, {IMYahoo}, {IMFacebook}, {IMGadugadu},
 //       {IMGoogletalk}, {IMQq}, {IMSkype}
@@ -1247,7 +1246,6 @@ var globalGroupContactsByCompanies=false;
 //       - facebook
 //       - flickr
 //       - linkedin
-//       - myspace
 //       - sinaweibo
 //       - any other custom value
 //     - {IM[type=XXX]} or {IM[service-type=YYY]} or {IM[:NUM]}

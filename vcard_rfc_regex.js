@@ -197,7 +197,7 @@ vCard.re['contentline_X-PHONETIC-FIRST-NAME']='(?:'+vCard.re['group']+'\\.)?X-PH
 vCard.pre['contentline_X-PHONETIC-FIRST-NAME']=RegExp('\r\n'+vCard.re['contentline_X-PHONETIC-FIRST-NAME'],'mi');
 vCard.re['contentline_X-PHONETIC-LAST-NAME']='(?:'+vCard.re['group']+'\\.)?X-PHONETIC-LAST-NAME(?:;'+vCard.re['text-param']+')*:'+vCard.re['text-value']+vCard.re['CRLF'];
 vCard.pre['contentline_X-PHONETIC-LAST-NAME']=RegExp('\r\n'+vCard.re['contentline_X-PHONETIC-LAST-NAME'],'mi');
-vCard.re['social-type']='(?:FACEBOOK|TWITTER|FLICKR|LINKEDIN|MYSPACE|SINAWEIBO|'+vCard.re['x-name']+'|'+vCard.re['text-value']+')';	/* Apple allows text-value here ... */
+vCard.re['social-type']='(?:FACEBOOK|TWITTER|FLICKR|LINKEDIN|SINAWEIBO|'+vCard.re['x-name']+'|'+vCard.re['text-value']+')';	/* Apple allows text-value here ... */
 vCard.re['social-param']='(?:TYPE='+vCard.re['social-type']+'(?:,PREF)?|'+vCard.re['x-name']+'='+vCard.re['param-value']+')';
 vCard.re['contentline_X-SOCIALPROFILE']='(?:'+vCard.re['group']+'\\.)?X-SOCIALPROFILE(?:;'+vCard.re['social-param']+')*:'+vCard.re['text-value']+vCard.re['CRLF'];
 vCard.pre['contentline_X-SOCIALPROFILE']=RegExp('\r\n'+vCard.re['contentline_X-SOCIALPROFILE'],'mi');

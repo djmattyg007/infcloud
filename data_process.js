@@ -239,9 +239,15 @@ function applyTimezone(previousTimezone,isEventLocal)
 	for(var i=0;i<collections.length;i++)
 		if(collections[i].uid!=undefined)
 			calendarCount++;
+    if (calendarCount === 0) {
+        eventsDone = true;
+    }
 	for(var i=0;i<todoCollections.length;i++)
 		if(todoCollections[i].uid!=undefined)
 			todoCount++;
+    if (todoCount === 0) {
+        todosDone = true;
+    }
 
 	var eventsArray=globalEventList.displayEventsArray;
 	var todosArray=globalEventList.displayTodosArray;

@@ -182,7 +182,6 @@ var globalAppName='InfCloud';
 var globalVersion='0.13.1';
 var globalBuildNo=1442928610;
 var globalXMLCache=null;
-var globalVersionCheckURL=(location.protocol=='file:' ? 'http:' : location.protocol)+'//www.inf-it.com/versioncheck/'+globalAppName+'/?v='+globalVersion;
 var globalXClientHeader=globalAppName+' '+globalVersion+' (Inf-IT CalDAV/CardDAV Web Client)';
 var globalResourceNumberCount=0;
 var globalResourceNumber=0;
@@ -727,9 +726,6 @@ function run()
 		console.log('Error: \'no account configured\': see config.js!');
 		return false;
 	}
-
-	if(typeof globalNewVersionNotifyUsers=='undefined' || globalNewVersionNotifyUsers!=null)
-		netVersionCheck();
 
 	document.title+=' ['+globalAccountSettings[0].userAuth.userName+']';
 	// Automatically detect crossDomain settings

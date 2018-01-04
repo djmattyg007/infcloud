@@ -519,15 +519,6 @@ var globalSearchTransformAlphabet={
 var globalResourceAlphabetSorting=true;
 
 
-// globalNewVersionNotifyUsers
-// Update notification will be shown only to users with login names defined
-// in this array.
-// If undefined (or empty), update notifications will be shown to all users.
-// Example:
-//   globalNewVersionNotifyUsers=['admin', 'peter'];
-var globalNewVersionNotifyUsers=[];
-
-
 // globalDatepickerFormat
 // Set the datepicker format (see 
 // http://docs.jquery.com/UI/Datepicker/formatDate for valid values).

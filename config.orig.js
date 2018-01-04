@@ -980,8 +980,8 @@ var globalUriHandlerTel='tel:';
 var globalUriHandlerEmail='mailto:';
 var globalUriHandlerUrl='http://';
 var globalUriHandlerProfile={
-	'twitter': 'http://twitter.com/%u',
-	'facebook': 'http://www.facebook.com/%u',
+	'twitter': 'https://twitter.com/%u',
+	'facebook': 'https://www.facebook.com/%u',
 	'flickr': 'http://www.flickr.com/photos/%u',
 	'linkedin': 'http://www.linkedin.com/in/%u',
 	'sinaweibo': 'http://weibo.com/n/%u'
